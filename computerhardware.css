@@ -1,0 +1,55 @@
+p.E {
+    color: black;
+    font-weight: bold;
+    margin: 0px 0px 0px 180px;
+    width: 70%;
+    border: 5px solid black;
+    padding: 5px 5px 5px 5px;
+    animation-duration: 9s;
+    }
+    p.oof {
+    font-weight: bold;
+    color:black;
+    text-align: center;
+    font-size: 300%;
+    animation-duration: 3s;
+    }
+    p.h {
+      font-weight: bold;
+      color:black;
+      text-align: center;
+      font-size: 200%;
+      animation-duration: 9s;
+      }
+      p.con {
+        color:black;
+        text-align: center;
+        font-weight: bold;
+        font-size: 200%;
+        animation-duration: 9s;
+        }
+     p.ben {
+        color:black;
+        text-align: center;
+        font-weight: bold;
+        font-size: 150%;
+        animation-duration: 9s;
+        }
+    ul.lis{
+      color: black;
+      margin: 0px 0px 0px 180px;
+      font-weight: bold;
+      display:inline-block;
+      border:5px solid black;
+      width: 70%;
+      animation-duration: 9s;
+    }
+    body {
+        background-image: url("free-website-backgrounds-2.png");
+        background-size: cover;
+      }
+    img{
+    display: block;
+    margin: 0 auto;
+    }
+   
