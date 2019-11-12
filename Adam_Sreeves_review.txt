@@ -3,13 +3,13 @@ INTEREST OF CONTENT - OUTSTANDING
  - Information is up-to-date
  - Each page contains several examples and, on some pages, links to other info sources
 
-CONSISTENCY AND QUALITY OF VISUAL PRESENTATION - ACCEPTABLE
+CONSISTENCY AND QUALITY OF VISUAL PRESENTATION - VERY GOOD
  - Navigation bar is very good
  - Author information is consistently presented
  - However, most of the rest of the visuals are very inconsistent
  - Pages have different sized headers
  - Some pages have images and contents sections, others do not
- - The 'Computer Hardware' page is completely different to all the other pages
+ - The 'Computer Hardware' page is completely different to all the other pages, but is still cool nonetheless :)
 
 QUALITY OF WRITTEN PRESENTATION - EXCELLENT
  - A few sentence structure errors on the 'The Internet' page
@@ -19,7 +19,7 @@ QUALITY OF WRITTEN PRESENTATION - EXCELLENT
 VALIDITY OF HTML - EXCELLENT
  - Seems fine to me, don't really know
 
-EVIDENCE OF COLLABORATION - SOUND
+EVIDENCE OF COLLABORATION - VERY GOOD
  - Author info is very limited, but not written by the author themselves
  - Daniel Stone has many more commits than everyone else
  - Seems to have been completed rather last-minute
